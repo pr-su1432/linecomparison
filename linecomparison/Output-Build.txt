@@ -1,0 +1,13 @@
+﻿1>------ Build started: Project: linecomparison, Configuration: Debug ------
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(5,8,5,14): error CS0128: A local variable or function named 'length' is already defined in this scope
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(6,51,6,53): error CS0103: The name 'L1' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(6,55,6,57): error CS0103: The name 'L2' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(7,19,7,21): error CS0103: The name 'L1' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(7,29,7,31): error CS0103: The name 'L2' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(8,19,8,21): error CS0103: The name 'L1' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(8,32,8,34): error CS0103: The name 'L2' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(9,5,9,7): error CS0103: The name 'L1' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(9,18,9,20): error CS0103: The name 'L2' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(11,10,11,12): error CS0103: The name 'L1' does not exist in the current context
+1>C:\lakshmi bridgelabzs\linecomparison\linecomparison\linecomparison\Program.cs(11,23,11,25): error CS0103: The name 'L2' does not exist in the current context
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
